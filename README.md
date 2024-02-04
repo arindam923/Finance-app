@@ -38,4 +38,4 @@ Welcome to FinManage, your go-to finance app for managing cards, transactions, a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/finmanage.git
+   git clone https://github.com/arindam923/Finance-app.git
